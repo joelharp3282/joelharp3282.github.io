@@ -15,7 +15,5 @@ I am involved with updating and maintaining the asset database. I am hoping to s
 
 [Project 2 Title](/sample_page)
 
-
-
-
+---
 ![](/images/Earth_from_Saturn.jpg)
