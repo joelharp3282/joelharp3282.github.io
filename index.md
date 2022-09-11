@@ -8,7 +8,7 @@ I am involved with updating and maintaining the asset database. I am hoping to s
 <br><br>
 ### Choropleth Maps
 
-[Multi-Criteria Decision Analysis]
+Multi-Criteria Decision Analysis
 ![](/images/MCDA_2.1.png)
 
 
