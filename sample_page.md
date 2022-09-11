@@ -17,6 +17,7 @@ if (isAwesome){
 ```
 
 ### 3. Support the selection of appropriate statistical tools and techniques
+#### Orange County FL, College Enrollment Percentages
 <img src="images/3.png?raw=true"/>
 
 ### 4. Provide a basis for further data collection through surveys or experiments
