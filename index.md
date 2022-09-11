@@ -10,6 +10,8 @@ I am involved with updating and maintaining the asset database. I am hoping to s
 
 Multi-Criteria Decision Analysis
 ![](/images/MCDA_2.1.png)
+<br><br>
+inverse distance weighting (IDW)
 ![](/images/IDW.png)
 
 
