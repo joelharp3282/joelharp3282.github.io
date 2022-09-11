@@ -7,7 +7,7 @@ Hello I am Joey Harp. I am part of the Branded Asset Team here at. I help to tak
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/https://www.google.com/)
 
 
 ### Category Name 2
