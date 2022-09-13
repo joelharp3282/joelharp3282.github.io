@@ -22,4 +22,3 @@ Inverse Distance Weighting (IDW)
 [Another Set Choropleth Maps](/sample_page)
 
 ---
-![](/images/Earth_from_Saturn.jpg)
