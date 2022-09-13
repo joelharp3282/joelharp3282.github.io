@@ -22,3 +22,4 @@ Inverse Distance Weighting (IDW)
 [Another Set Choropleth Maps](/sample_page)
 
 ---
+[My Career Path](/pdf/career_github.pdf)
