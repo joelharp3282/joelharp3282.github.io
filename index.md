@@ -8,6 +8,9 @@ I am involved with updating and maintaining the asset database. I am hoping to s
 <br><br>
 
 ---
+[My Career Path](/pdf/career_github.pdf)
+
+---
 ### Choropleth Maps
 
 Multi-Criteria Decision Analysis
@@ -22,4 +25,3 @@ Inverse Distance Weighting (IDW)
 [Another Set Choropleth Maps](/sample_page)
 
 ---
-[My Career Path](/pdf/career_github.pdf)
