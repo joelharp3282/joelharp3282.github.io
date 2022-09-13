@@ -19,9 +19,11 @@ Multi-Criteria Decision Analysis
 Inverse Distance Weighting (IDW)
 ![](/images/IDW.png)
 
-
+---
 ### More Maps
 
 [Another Set Choropleth Maps](/sample_page)
 <img src="images/florida_counties.png?raw=true"/>
+<br><br>
+
 ---
