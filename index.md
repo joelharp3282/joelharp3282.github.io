@@ -1,3 +1,4 @@
+logo: "/images/Vegas.png?raw=true" # your photo (or logo) here
 ## Portfolio
 
 ---
