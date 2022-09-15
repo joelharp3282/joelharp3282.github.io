@@ -10,7 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/joelharp32/">View My LinkedIn Profile</a> 
   <br><br> 
   
-#theme: jekyll-theme-Minimal
-theme: jekyll-theme-minima
+theme: jekyll-theme-Minimal
+
 plugins:
   - jekyll-feed
