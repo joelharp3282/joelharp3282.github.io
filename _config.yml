@@ -11,5 +11,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br> 
   
 #theme: jekyll-theme-Minimal
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
