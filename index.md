@@ -2,7 +2,7 @@
 
 ---
 ### A Little Introduction
-I am just starting my geospatial journey and trying to build something. I am currently working at Walt Disney World and tryingto beginning to implement a geospatial aspect to that.
+I am just starting my geospatial journey and trying to build something in my corner of the internet. I am currently working at Walt Disney World and trying to beginning to implement a geospatial aspect to that.
 <br><br>
 
 ---
