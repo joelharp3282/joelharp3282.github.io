@@ -12,7 +12,7 @@ I am just starting my geospatial journey and trying to build something in my cor
 Here is an example of some of the [python code I have written](exampleCode.ipynb)
 
 ---
-### Choropleth Maps
+### ArcGIS Pro Maps
 
 Multi-Criteria Decision Analysis
 ![](/images/MCDA_2.1.png)
