@@ -27,4 +27,5 @@ elif actionNeed == "Precinct Number": # if precinct is selected it would provide
     print(userquery)
     import arcpy
     arcpy.env.workspace = "C:/Users/marco/Desktop/Term_Project_Python/StateData/precinct_126_coord" # workspace for the precinct locations
-    arcpy.analysis.Select("precinct_coord-point.shp", "C:/Users/marco/Desktop/Term_Project_Python/StateData/precinct_location", userquery)```
+    arcpy.analysis.Select("precinct_coord-point.shp", "C:/Users/marco/Desktop/Term_Project_Python/StateData/precinct_location", userquery)
+    ```
