@@ -9,6 +9,9 @@ I am just starting my geospatial journey and trying to build something in my cor
 [My Career Path](/pdf/career_github.pdf)
 
 ---
+Here is an example of some of the [python code I have written](exampleCode.ipynb)
+
+---
 ### Choropleth Maps
 
 Multi-Criteria Decision Analysis
