@@ -4,7 +4,8 @@
 
 ### For precinct input the select function is utilized for visiualization.
 
-```# Trying to set up the conditionals for the different languages that were most likely to be asked.
+```python
+# Trying to set up the conditionals for the different languages that were most likely to be asked.
 # More languages could be added as needed.
 
 actionNeed = input("Please select language or Precinct Number please: ") # user inputs what they are looking help for.
