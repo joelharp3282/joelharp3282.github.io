@@ -9,7 +9,7 @@ I am just starting my geospatial journey and trying to build something in my cor
 [My Career Path](/pdf/career_github.pdf)
 
 ---
-[Python Code Example]()
+[Python Code Example](exampleCode.ipynb)
 
 ---
 ### ArcGIS Pro Maps
