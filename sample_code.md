@@ -10,11 +10,11 @@ if (isAwesome){
 
 
 ---
+```javascript
 ## Nested Conditional Statements for Language or Precinct.
 
 ### For precinct input the select function is utilized for visiualization.
 
-```python
 # Trying to set up the conditionals for the different languages that were most likely to be asked.
 # More languages could be added as needed.
 
