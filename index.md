@@ -6,6 +6,9 @@ I am just starting my geospatial journey and trying to build something in my cor
 <br><br>
 
 ---
+[![Orange County Precints](images/florida_counties.png)](https://arcg.is/1XOn1y)
+
+---
 [My Career Path](/pdf/career_github.pdf)
 
 ---
