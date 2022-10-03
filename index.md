@@ -27,7 +27,7 @@ Inverse Distance Weighting (IDW)
 ### More Maps
 
 [Orange County Florida Choropleth Maps](/sample_page)
-<img src="images/florida_counties.png?raw=true"/>
+#<img src="images/florida_counties.png?raw=true"/>
 <br><br>
 
 ---
