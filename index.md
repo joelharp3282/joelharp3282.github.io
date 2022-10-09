@@ -6,7 +6,7 @@ I am just starting my geospatial journey and trying to build something in my cor
 <br><br>
 
 ---
-[Geyserville CA, Normalized Burn Ratio (NBR)](https://code.earthengine.google.com/#)
+[Geyserville CA, Normalized Burn Ratio (NBR)](https://joelharp32.users.earthengine.app/view/dnbrca)
 
 ---
 [![Orange County Precints](images/florida_counties.png)](https://arcg.is/1XOn1y)
